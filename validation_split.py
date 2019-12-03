@@ -4,8 +4,8 @@ import numpy as np
 import shutil
 from os import path
 
-dir = path.dirname(__file__)
-# dir =  "E:\\dnn\\distracted_driver_detection"
+#dir = path.dirname(__file__)
+dir =  "E:\\dnn\\distracted_driver_detection\\img"
 
 dir = os.path.join(dir, "data")
 # dir拼接进如data文件夹
